@@ -29,7 +29,7 @@ Die XML-Datei wird im aktuellen Verzeichnis der Anwendung gespeichert.
 
 ## Screenshot
 
-![Main Window](screenshots/mainwindow.png)
+![Mainwindow](screenshots/mainwindow.png)
 
 ## Autor
 
